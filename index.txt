@@ -6,4 +6,5 @@
 127.0.0.1  yt3.ggpht.com
 127.0.0.1  i.ytimg.com
 127.0.0.1  rr1---sn-oguelnss.googlevideo.com
+127.0.0.1  rr3---sn-oguelnlz.googlevideo.com
 127.0.0.1  rr5---sn-oguesn6r.googlevideo.com
